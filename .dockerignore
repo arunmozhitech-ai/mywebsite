@@ -1,0 +1,16 @@
+.git
+.env
+.env.*
+!.env.example
+node_modules
+dist
+.next
+.vinext
+.wrangler
+coverage
+*.log
+*.tsbuildinfo
+backend/data
+backend/uploads/*
+!backend/uploads/.gitkeep
+file_*.png
